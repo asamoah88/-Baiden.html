@@ -1,0 +1,26 @@
+.all{
+    background-image: url(./Baid.png);
+    text-align: center;
+    font-size: 50%;
+    border-style: hidden;
+    border-width: 5px;
+    border-radius: 10px;
+    background-position: center;
+    color: rgb(0, 0, 71);
+    
+    
+}
+
+@media (min-width: 576px) 
+
+/* // Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) 
+
+/* // Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) 
+
+/* // X-Large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) 
+
+/*// XX-Large devices (larger desktops, 1400px and up)*/
+@media (min-width: 1400px)
